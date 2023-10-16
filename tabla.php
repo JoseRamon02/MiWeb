@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Tabla de Usuarios</title>
+    <link rel="stylesheet" href="tablaCss.css" type="text/css">
 </head>
 <body>
     <h2>Tabla de Usuarios</h2>

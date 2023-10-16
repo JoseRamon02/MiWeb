@@ -1,0 +1,59 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+}
+
+/* Estilos para el encabezado de la página */
+h2 {
+    color: #007BFF;
+    padding: 20px;
+}
+
+/* Estilos para la tabla */
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para las celdas de encabezado */
+th {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+    border: 1px solid #ccc;
+}
+
+/* Estilos para las celdas de datos */
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Estilos para los enlaces "Editar" */
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Estilos para el enlace "Dirigirse al formulario" */
+a.formulario-link {
+    display: block;
+    margin: 20px 0;
+    text-decoration: none;
+    color: #007BFF;
+}
+
+a.formulario-link:hover {
+    color: #0056b3;
+}

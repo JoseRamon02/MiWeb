@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Editar Usuario</title>
+    <link rel="stylesheet" href="forumulariosCss.css" type="text/css">
 </head>
 <body>
     <?php
@@ -56,7 +57,7 @@
     ?>
 
     <h1>Editar Usuario</h1>
-
+    <link rel="stylesheet" href="forumulariosCss.css" type="text/css">
     <form action="editar.php" method="post">
         <input type="hidden" name="id" value="<?php echo $usuario['id']; ?>">
         
